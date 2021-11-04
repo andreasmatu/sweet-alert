@@ -154,7 +154,7 @@ return [
 
     /*
     |--------------------------------------------------------------------------
-    | Toast position
+    | Progress Bar
     |--------------------------------------------------------------------------
     | If set to true, a progress bar at the bottom of a popup will be shown.
     | It can be useful with toasts.
